@@ -67,6 +67,7 @@
 }
 
 .date{
+  font-size: 12px;
   margin-bottom: 20rpx;
   border-bottom: 1px solid #043567;
 }
